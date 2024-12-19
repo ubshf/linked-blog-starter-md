@@ -5,3 +5,4 @@ Hi this is realy cool
 iPad geht 
 Handy geht 
 Laptop geht auch
+PC geht ebenso
